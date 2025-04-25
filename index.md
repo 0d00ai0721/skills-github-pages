@@ -1,6 +1,5 @@
----
-title: Welcome to my blog
-name: mcf
+ Welcome to my blog
+ my name is mcf
 from: china
 
 ---
